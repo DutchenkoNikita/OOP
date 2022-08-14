@@ -1,0 +1,1 @@
+Implementation of a priority queue, applying knowledge of OOP paradigms and basic C++ algorithms. Filling the priority queue using the abstract class "Service center" and child classes "Regulated service", "Warranty repair". A check of the correctness of the program's operation using Boost_test has been implemented.
